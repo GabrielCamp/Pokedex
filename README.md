@@ -19,3 +19,7 @@ Tipo de pokemón
 Estadísticas
 
 Movimientos
+
+Link de la pagina:
+
+https://gabrielcamp.github.io/Pokedex/
